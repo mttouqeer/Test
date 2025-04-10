@@ -1,0 +1,16 @@
+PODS:
+  - UIView-Shimmer (1.0.4)
+
+DEPENDENCIES:
+  - UIView-Shimmer
+
+SPEC REPOS:
+  trunk:
+    - UIView-Shimmer
+
+SPEC CHECKSUMS:
+  UIView-Shimmer: ff0a32c73d67c7dbdea3d9e530538b10d18aea56
+
+PODFILE CHECKSUM: fdfa3a55f848101d0770e147c26cf93139614d80
+
+COCOAPODS: 1.15.2
