@@ -11,7 +11,7 @@ import UIView_Shimmer
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.setTemplateWithSubviews(true,color: .lightGray)
+        view.setTemplateWithSubviews(true,color: .white)
     }
     
 }
